@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>f67159562f233010c615d7492799b611</logo>
+        <menu/>
+        <name>Social Media</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_702322_social_me</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_702322_social_me</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 04:53:57</sys_created_on>
+        <sys_id>867159562f233010c615d7492799b62b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-11-03 04:54:00</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>nagarro Logo.png</file_name>
+        <hash>87e8702d2fe93b0fbcc72bea92628e5d61311165356de92a4d0f33580c8435fc</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2795</size_bytes>
+        <size_compressed>2770</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 04:53:59</sys_created_on>
+        <sys_id>f67159562f233010c615d7492799b611</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2021-11-03 04:54:03</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>867159562f233010c615d7492799b62b</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="nagarro Logo.png" sys_id="f67159562f233010c615d7492799b611">f67159562f233010c615d7492799b611</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 04:53:59</sys_created_on>
+        <sys_id>7e7159562f233010c615d7492799b611</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3680</length>
+        <position>1</position>
+        <sys_attachment display_value="nagarro Logo.png" sys_id="f67159562f233010c615d7492799b611">f67159562f233010c615d7492799b611</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-11-03 04:53:59</sys_created_on>
+        <sys_id>fe7159562f233010c615d7492799b611</sys_id>
+    </sys_attachment_doc>
+</record_update>
